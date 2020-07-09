@@ -7,7 +7,7 @@ package umsl.edu;
 
 /**
  *
- * @author jerem
+ *
  */
 import java.awt.*;
 import java.awt.event.*;
