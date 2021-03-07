@@ -1,0 +1,3 @@
+AA	| Hours: 45 |  Rate: 10.0 |  
+BB	| Employee Type: Executive |  
+CC	| Items Sold: 100 |  Item Price: 100.0 |  

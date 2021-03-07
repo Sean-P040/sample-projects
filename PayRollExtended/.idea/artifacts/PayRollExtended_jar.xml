@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PayRollExtended:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PayRollExtended_jar</output-path>
+    <root id="archive" name="PayRollExtended.jar">
+      <element id="module-output" name="PayRollExtended" />
+    </root>
+  </artifact>
+</component>
